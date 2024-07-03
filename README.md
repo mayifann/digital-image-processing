@@ -27,3 +27,6 @@
     - `yolov4-tiny.cfg`：YOLOv4-Tiny配置文件。
     - `yolov4-tiny.weights`：YOLOv4-Tiny预训练权重。
     - `classes.txt`：包含YOLOv4-Tiny模型类别名称的文件。
+- `1.mp4`：测试使用视频。
+- `demo.mp4`：演示录屏。
+- `10185101288-马一凡-数字图像处理期末项目报告`：项目报告。
